@@ -1,5 +1,7 @@
 [![Build Status](https://dev.azure.com/devopsmlaai/MyBasicTestProject/_apis/build/status/mlaai.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/devopsmlaai/MyBasicTestProject/_build/latest?definitionId=3&branchName=master)
 
+[![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=mlaai_mslearn-tailspin-spacegame-web)](https://sonarcloud.io/dashboard?id=mlaai_mslearn-tailspin-spacegame-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
